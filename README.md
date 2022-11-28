@@ -1,4 +1,4 @@
-## Financial_analysis_Project
+## Financial analysis Project - Baltic Car dealership performance 
 
 This project was done in order to show my financial analysis skills in addition to simple data analysis things that every data analyst learns in Turing College, to potentially show a little side of me and my interests additionally to an interest to create a database of my own instead of taking an already existing one. I like data analysis, and if I can unite that with the finance side of things, I tend to really enjoy the projects that I am working on. 
 
